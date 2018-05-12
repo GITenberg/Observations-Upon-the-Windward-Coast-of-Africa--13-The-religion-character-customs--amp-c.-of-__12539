@@ -1,11 +1,16 @@
 _repo: Observations-Upon-the-Windward-Coast-of-Africa--13-The-religion-character-customs--amp-c.-of-__12539
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Corry, Joseph
     gutenberg_agent_id: '4413'
     url: http://www.gutenberg.org/2009/agents/4413
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12539#Observations-Upon-the-Windward-Coast-of-Africa--13-The-religion-character-customs--amp-c.-of-_
 gutenberg_bookshelf: Africa
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
